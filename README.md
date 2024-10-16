@@ -135,24 +135,24 @@
 |  禁止鸣喇叭                       | |<img src=./resources/s_p11.jpg  width="60" height="60"> |  |   |
 |  限制宽度                         | |<img src=./resources/s_pw.jpg  width="60" height="60"> |  |   |
 |  限制高度                         | |<img src=./resources/s_ph.jpg  width="60" height="60"> |  |   |
-|  限制质量 | |<img src=./resources/s_pm.jpg  width="60" height="60"> |  |  |
-|  限制轴重 | |<img src=./resources/s_pa.jpg  width="60" height="60"> |  |   |
-|  限制速度 | |<img src=./resources/s_pl.jpg  width="60" height="60"> |  |  |
-|  解除限制速度 | |<img src=./resources/s_pr.jpg  width="60" height="60"> |  |  |
-|  停车检查 | |<img src=./resources/s_pc.jpg  width="60" height="60"> |  |   |
-|  禁止运输危险物品车辆驶入 | |<img src=./resources/s_p27.jpg  width="60" height="60"> |  |    |
-|  海关 | |<img src=./resources/s_pd.jpg  width="60" height="60"> |  |   |
-|  可变限速 | |<img src=./resources/s_pc.jpeg  width="60" height="60"> |  |   |
-|  禁止电动自行车进入 | |<img src=./resources/s_p29.jpg  width="60" height="60"> |  |   |
-|  禁止小客车向左转弯 | |<img src=./resources/s_p30.jpg  width="60" height="60"> |  |   |
-|  禁止车辆停放 | |<img src=./resources/s_p31.jpg  width="120" height="60"> |  |   |
-|  口岸停车检查 | |<img src=./resources/s_p32.jpg  width="60" height="60"> |  |   |
-|  区域禁止车辆长时停放 | |<img src=./resources/s_p33.jpg  width="60" height="60"> |  |   |
-|  区域禁止车辆长时停放解除 | |<img src=./resources/s_p34.jpg  width="60" height="60"> |  |   |
-|  区域禁止车辆停放 | |<img src=./resources/s_p35.jpg  width="60" height="60"> |  |   |
-|  区域禁止车辆停放解除 | |<img src=./resources/s_p37.jpg  width="60" height="60"> |  |   |
-|  区域限制速度 | |<img src=./resources/s_p38.jpg  width="60" height="60"> |  |   |
-|  其他 | ---- | ----  |
+|  限制质量                         | |<img src=./resources/s_pm.jpg  width="60" height="60"> |  |  |
+|  限制轴重                         | |<img src=./resources/s_pa.jpg  width="60" height="60"> |  |   |
+|  限制速度                         | |<img src=./resources/s_pl.jpg  width="60" height="60"> |  |  |
+|  解除限制速度                     | |<img src=./resources/s_pr.jpg  width="60" height="60"> |  |  |
+|  停车检查                         | |<img src=./resources/s_pc.jpg  width="60" height="60"> |  |   |
+|  禁止运输危险物品车辆驶入         | |<img src=./resources/s_p27.jpg  width="60" height="60"> |  |    |
+|  海关                             | |<img src=./resources/s_pd.jpg  width="60" height="60"> |  |   |
+|  可变限速                         | |<img src=./resources/s_pc.jpeg  width="60" height="60"> |  |   |
+|  禁止电动自行车进入               | |<img src=./resources/s_p29.jpg  width="60" height="60"> |  |   |
+|  禁止小客车向左转弯               | |<img src=./resources/s_p30.jpg  width="60" height="60"> |  |   |
+|  禁止车辆停放                     | |<img src=./resources/s_p31.jpg  width="120" height="60"> |  |   |
+|  口岸停车检查                     | |<img src=./resources/s_p32.jpg  width="60" height="60"> |  |   |
+|  区域禁止车辆长时停放             | |<img src=./resources/s_p33.jpg  width="60" height="60"> |  |   |
+|  区域禁止车辆长时停放解除         | |<img src=./resources/s_p34.jpg  width="60" height="60"> |  |   |
+|  区域禁止车辆停放                 | |<img src=./resources/s_p35.jpg  width="60" height="60"> |  |   |
+|  区域禁止车辆停放解除             | |<img src=./resources/s_p37.jpg  width="60" height="60"> |  |   |
+|  区域限制速度                     | |<img src=./resources/s_p38.jpg  width="60" height="60"> |  |   |
+|  其他                             | ---- | ----  |
 
 #### 指示标志  
 
