@@ -10,8 +10,9 @@
 
 |  类型 | 文件夹名称 | 示例  | 备注   |
 |  ---- | ---- | ---- | ----  |
-|  十字交叉路口         | 000 |<img src=./resources/000.jpg  width="60" height="60">            |   |  |
-|  卡字交叉路口         | |<img src=./resources/001_0.jpg  width="60" height="60"> <img src=./resources/001_1.jpg  width="60" height="60">  |  001 |   |
+|  十字交叉路口         |  |<img src=./resources/000.jpg  width="60" height="60">            |   |  |
+|  卡字交叉路口         | |<img src=./resources/001_0.jpg  width="60" height="60">   |   |   |
+|  卡字交叉路口     | |<img src=./resources/001_1.jpg  width="60" height="60">      |   |   |
 |  Y 形交叉(左下侧)     | |<img src=./resources/002.jpg  width="60" height="60">      |   |   |
 |  Y 形交叉(右下侧)     | |<img src=./resources/003.jpg  width="60" height="60">      |   |   |
 |  Y 形交叉(左上侧)     | |<img src=./resources/004.jpg  width="60" height="60">      |   |   |
@@ -22,7 +23,8 @@
 |  环形交叉路口         | |<img src=./resources/009.jpg  width="60" height="60"> |   |   |
 |  向右急转弯           | |<img src=./resources/010.jpg  width="60" height="60"> |   |   |
 |  向左急转弯           | |<img src=./resources/011.jpg  width="60" height="60"> |   |   |
-|  向左反向弯路         | |<img src=./resources/012_0.jpg  width="60" height="60"> <img src=./resources/012_1.jpg width="60" height="60">|   |   |
+|  向左反向弯路         | |<img src=./resources/012_0.jpg  width="60" height="60">|   |   |
+|  向左反向弯路         | |<img src=./resources/012_1.jpg width="60" height="60">|   |   |
 |  向右反向弯路         | |<img src=./resources/013.jpg  width="60" height="60"> |   |   |
 |  连续弯路             | |<img src=./resources/014.jpg  width="60" height="60"> |   |   |
 |  上陡坡               | |<img src=./resources/015.jpg  width="60" height="60"> |   |   |
@@ -59,7 +61,8 @@
 |  注意非机动车         | |<img src=./resources/046.jpg  width="60" height="60"> |   |   |
 |  注意残疾人           | |<img src=./resources/047.png  width="60" height="60"> |   |   |
 |  事故易发地段         | |<img src=./resources/048.jpg  width="60" height="60"> |   |   |
-|  慢行                 | |<img src=./resources/049_0.jpg  width="60" height="60">   <img src=./resources/049_1.jpg  width="60" height="60"> |   |   |
+|  慢行                 | |<img src=./resources/049_1.jpg  width="60" height="60"> |   |   |
+|  慢行                 | |<img src=./resources/049_0.jpg  width="60" height="60"> |   |   |
 |  右侧绕行             | |<img src=./resources/050.jpg  width="60" height="60"> |   |  |
 |  左侧绕行             | |<img src=./resources/051.jpg  width="60" height="60"> |   |   |
 |  左右绕行             | |<img src=./resources/052.jpg  width="60" height="60"> |   |   |
@@ -80,23 +83,6 @@
 |  | |<img src=./resources/067.jpg  width="60" height="60"> |   |   |
 |  | |<img src=./resources/068.jpg  width="60" height="60"> |   |   |
 |  | |<img src=./resources/069.jpg  width="60" height="60"> |   |   |
-
-<!-- |  Y 形交叉（左右侧） | |<img src=./resources/s_w68.jpg  width="60" height="60"> |   |   |
-|  Y 形交叉（左右侧） | |<img src=./resources/s_w69.jpg  width="100" height="60"> |   |   |
-|  陡坡标志加坡度值 | |<img src=./resources/s_w70.jpg  width="60" height="60"> |   |   |
-|  叉形符号 | |<img src=./resources/s_w71.jpg  width="60" height="60"> |   |   |
-|  斜杠符号 | |<img src=./resources/s_w72.jpg  width="100" height="60"> |   |   |
-|  注意电动自行车 | |<img src=./resources/s_w73.jpg  width="60" height="60"> |   |   |
-|  交通事故管理 | |<img src=./resources/s_w74.jpg  width="60" height="60"> |   |   |
-|  建议 | |<img src=./resources/s_w75.jpg  width="100" height="60"> |   |   |
-|  避险车道 | |<img src=./resources/s_w76.jpg  width="60" height="60"> |   |   |
-|  注意车道数变少 | |<img src=./resources/s_w77.jpg  width="60" height="60"> |   |   |----
-|  线形诱导标 | |<img src=./resources/s_w78.jpg  width="60" height="60"> |   |   | -->
-
-#### 禁止标志  
-
-|  类型 |文件夹名称 | 示例  | 备注   |
-|  ---- | ---- | ----  | ---- |
 |  停车让行                         | |<img src=./resources/071.jpg  width="60" height="60"> |  |   |
 |  减速让行                         | |<img src=./resources/072.jpg  width="60" height="60"> |  |   |
 |  会车让行                         | |<img src=./resources/073.jpg  width="60" height="60"> |  |   |
@@ -122,97 +108,155 @@
 |  禁止向左转弯                     | |<img src=./resources/093.jpg  width="60" height="60"> |  |   |
 |  禁止向右转弯                     | |<img src=./resources/094.jpg  width="60" height="60"> |  |   |
 |  禁止小客车向右转弯               | |<img src=./resources/095.png  width="60" height="60"> |  |   |
-|  禁止载货汽车左转                 | |<img src=./resources/s_p7.jpg  width="60" height="60"> |  |   |
-|  禁止直行                         | |<img src=./resources/s_p14.jpg  width="60" height="60"> |  |   |
-|  禁止向左向右转弯                 | |<img src=./resources/s_p20.jpg  width="60" height="60"> |  |   |
-|  禁止直行和向左转弯               | |<img src=./resources/s_p28.jpg  width="60" height="60"> |  | |
-|  禁止直行和向右转弯               | |<img src=./resources/s_p21.jpg  width="60" height="60"> |  |   |
-|  禁止掉头                         | |<img src=./resources/s_p5.jpg  width="60" height="60"> |  |   |
-|  禁止超车                         | |<img src=./resources/s_p1.jpg  width="60" height="60"> |  |   |
-|  解除禁止超车                     | |<img src=./resources/s_p1n.jpg  width="60" height="60"> |  |   |
-|  禁止停车                         | |<img src=./resources/s_pn.jpg  width="60" height="60"> |  |   |
-|  禁止长时停车                     | |<img src=./resources/s_pnl.jpg  width="60" height="60"> |  |   |
-|  禁止鸣喇叭                       | |<img src=./resources/s_p11.jpg  width="60" height="60"> |  |   |
-|  限制宽度                         | |<img src=./resources/s_pw.jpg  width="60" height="60"> |  |   |
-|  限制高度                         | |<img src=./resources/s_ph.jpg  width="60" height="60"> |  |   |
-|  限制质量                         | |<img src=./resources/s_pm.jpg  width="60" height="60"> |  |  |
-|  限制轴重                         | |<img src=./resources/s_pa.jpg  width="60" height="60"> |  |   |
-|  限制速度                         | |<img src=./resources/s_pl.jpg  width="60" height="60"> |  |  |
-|  解除限制速度                     | |<img src=./resources/s_pr.jpg  width="60" height="60"> |  |  |
-|  停车检查                         | |<img src=./resources/s_pc.jpg  width="60" height="60"> |  |   |
-|  禁止运输危险物品车辆驶入         | |<img src=./resources/s_p27.jpg  width="60" height="60"> |  |    |
-|  海关                             | |<img src=./resources/s_pd.jpg  width="60" height="60"> |  |   |
-|  可变限速                         | |<img src=./resources/s_pc.jpeg  width="60" height="60"> |  |   |
+|  禁止载货汽车左转                 | |<img src=./resources/096.jpg  width="60" height="60"> |  |   |
+|  禁止直行                         | |<img src=./resources/097.jpg  width="60" height="60"> |  |   |
+|  禁止向左向右转弯                 | |<img src=./resources/098.jpg  width="60" height="60"> |  |   |
+|  禁止直行和向左转弯               | |<img src=./resources/099.jpg  width="60" height="60"> |  | |
+|  禁止直行和向右转弯               | |<img src=./resources/100.jpg  width="60" height="60"> |  |   |
+|  禁止掉头                         | |<img src=./resources/101.jpg  width="60" height="60"> |  |   |
+|  禁止超车                         | |<img src=./resources/102.jpg  width="60" height="60"> |  |   |
+|  解除禁止超车                     | |<img src=./resources/103.jpg  width="60" height="60"> |  |   |
+|  禁止停车                         | |<img src=./resources/104.jpg  width="60" height="60"> |  |   |
+|  禁止长时停车                     | |<img src=./resources/105.jpg  width="60" height="60">|  |   |
+|  禁止长时停车                       | |<img src=./resources/108.jpg  width="60" height="60">|  |   |
+|  禁止长时停车                       | |<img src=./resources/106.jpg  width="60" height="60">|  |   |
+|  禁止鸣喇叭                       | |<img src=./resources/109.jpg  width="60" height="60">|  |   |
+|  限制宽度                         | |<img src=./resources/110.jpg  width="60" height="60"> |  |   |
+|  限制高度                         | |<img src=./resources/111.jpg  width="60" height="60"> |  |   |
+|  限制质量                         | |<img src=./resources/112.jpg  width="60" height="60"> |  |  |
+|  限制轴重                         | |<img src=./resources/113.jpg  width="60" height="60"> |  |   |
+|  限制速度                         | |<img src=./resources/114.jpg  width="60" height="60"> |  |  |
+|  解除限制速度                     | |<img src=./resources/115.jpg  width="60" height="60"> |  |  |
+|  停车检查                         | |<img src=./resources/116.jpg  width="60" height="60"> |  |   |
+|  禁止运输危险物品车辆驶入         | |<img src=./resources/117.jpg  width="60" height="60"> |  |    |
+|  海关                             | |<img src=./resources/118.png  width="60" height="60"> |  |   |
+|                               | |<img src=./resources/119.jpg  width="60" height="60"> |  |   |
+|                               | |<img src=./resources/120_0.jpg  width="60" height="60"> |  |   |
+|                               | |<img src=./resources/120_1.jpg  width="60" height="60"> |  |   |
+|                               | |<img src=./resources/121.jpg  width="60" height="60"> |  |   |
+|                               | |<img src=./resources/122.jpg  width="60" height="60"> |  |   |
+|                               | |<img src=./resources/123.jpg  width="60" height="60"> |  |   |
+|                               | |<img src=./resources/125.jpg  width="60" height="60"> |  |   |
+|                               | |<img src=./resources/126.jpg  width="60" height="60"> |  |   |
+|                               | |<img src=./resources/127.jpg  width="60" height="60"> |  |   |
+|  可变限速                         | |<img src=./resources/124.jpg  width="60" height="60"> |  |   |
 |  禁止电动自行车进入               | |<img src=./resources/s_p29.jpg  width="60" height="60"> |  |   |
 |  禁止小客车向左转弯               | |<img src=./resources/s_p30.jpg  width="60" height="60"> |  |   |
-|  禁止车辆停放                     | |<img src=./resources/s_p31.jpg  width="120" height="60"> |  |   |
-|  口岸停车检查                     | |<img src=./resources/s_p32.jpg  width="60" height="60"> |  |   |
+|  禁止车辆停放                     | |<img src=./resources/107.jpg  width="60" height="60"> |  |   |
+|  口岸停车检查                     | |<img src=./resources/118.png  width="60" height="60"> |  |   |
 |  区域禁止车辆长时停放             | |<img src=./resources/s_p33.jpg  width="60" height="60"> |  |   |
 |  区域禁止车辆长时停放解除         | |<img src=./resources/s_p34.jpg  width="60" height="60"> |  |   |
 |  区域禁止车辆停放                 | |<img src=./resources/s_p35.jpg  width="60" height="60"> |  |   |
 |  区域禁止车辆停放解除             | |<img src=./resources/s_p37.jpg  width="60" height="60"> |  |   |
 |  区域限制速度                     | |<img src=./resources/s_p38.jpg  width="60" height="60"> |  |   |
-|  其他                             | ---- | ----  |
-
-#### 指示标志  
-
-|  类型 | 示例 | 状态  | 备注   |
-|  ---- | ---- | ----  | ----|
-|  直行 | |<img src=./resources/s_i13.jpg  width="60" height="60"> |  |  |
-|  向左转弯 | |<img src=./resources/s_i12.jpg  width="60" height="60"> |  |  |
-|  向右转弯 | |<img src=./resources/s_i10.jpg  width="60" height="60"> |  |  |
-|  直行和向左转弯 | |<img src=./resources/s_i15.jpg  width="60" height="60"> |  |  |
-|  直行和向右转弯 | |<img src=./resources/s_i14.jpg  width="60" height="60"> |  |  |
-|  向左和向右转弯 | |<img src=./resources/s_i11.jpg  width="60" height="60"> |  |  |
-|  靠右侧道路行驶 | |<img src=./resources/s_i5.jpg  width="60" height="60"> |  |   |
-|  靠左侧道路行驶 | |<img src=./resources/s_i6.jpg  width="60" height="60"> |  |  |
-|  立体交叉直行和左转弯行驶 | |<img src=./resources/s_i8.jpg  width="60" height="60"> |  | ----  |
-|  立体交叉直行和右转弯行驶 | |<img src=./resources/s_i7.jpg  width="60" height="60"> |  | ----  |
-|  环岛行驶 | |<img src=./resources/s_i3.jpg  width="60" height="60"> |  |  |
-|  单行路向右 | |<img src=./resources/s_i16.jpg  width="60" height="60"> |  |  |
-|  单行路向左 | |<img src=./resources/s_i17.jpg  width="60" height="60"> |  | ----  |
-|  单行路（直行） | |<img src=./resources/s_i18.jpg  width="60" height="60"> |  |  |
-|  步行 | |<img src=./resources/s_i1.jpg  width="60" height="60"> |<img src=./resources/s_i1_new.jpg  width="60" height="60"> |  |  |
-|  鸣喇叭 | |<img src=./resources/s_i9.jpg  width="60" height="60"> |  | ----  |
-|  最低限速 | |<img src=./resources/s_il.jpg  width="60" height="60"> |  |  |
-|  路口优先通行 | |<img src=./resources/s_i35.jpg  width="60" height="60"> |  | ----  |
-|  会车先行 | |<img src=./resources/s_i19.jpg  width="60" height="60"> |  | ----  |
-|  人行横道 | |<img src=./resources/s_ip.jpg  width="60" height="60"> |  |   |
-|  右转车道 | |<img src=./resources/s_i20.jpg  width="60" height="60"> |  |   |
-|  左转车道 | |<img src=./resources/s_i21.jpg  width="60" height="60"> |  |   |
-|  直行车道 | |<img src=./resources/s_i22.jpg  width="60" height="60"> |  |   |
-|  直行和右转合用车道 | |<img src=./resources/s_i23.jpg  width="60" height="60"> |  |   |
-|  直行和左转合用车道 | |<img src=./resources/s_i24.jpg  width="60" height="60"> |  |   |
-|  掉头车道 | |<img src=./resources/s_i25.jpg  width="60" height="60"> |  |   |
-|  掉头和左转合用车道 | |<img src=./resources/s_i26.jpg  width="60" height="60"> |  |   |
-|  公交线路专用车道 | |<img src=./resources/s_i27.jpg  width="60" height="60"> |  |   |
-|  机动车行驶 | |<img src=./resources/s_i4.jpg  width="60" height="60"> |  |  |
-|  机动车车道 | |<img src=./resources/s_i28.jpg  width="60" height="60"> |  |  |
-|  非机动车行驶 | |<img src=./resources/s_i2.jpg  width="60" height="60"> |  |   |
-|  非机动车车道 | |<img src=./resources/s_i29.jpg  width="60" height="60"> |  | ----  |
-|  快速公交系统专用车道 | |<img src=./resources/s_i30.jpg  width="60" height="80"> |  |  |
-|  多乘员车辆专用车道 | |<img src=./resources/s_i31.jpg  width="50" height="60"> |  | ----  |
-|  停车位 | |<img src=./resources/s_i32.jpg  width="80" height="80"> |  |   |
-|  允许掉头 | |<img src=./resources/s_i33.jpg  width="60" height="60"> |  |   |
-|  可变提示牌 | ----- |  | ----  |
-|  左右转合并车道 | |<img src=./resources/s_i34.jpg  width="60" height="60"> |  | ----  |
-|  开车灯 | |<img src=./resources/s_i36.jpg  width="60" height="60"> |  | ----  |
-|  小型客车车道 | |<img src=./resources/s_i37.jpg  width="60" height="60"> |  | ----  |
-|  电动自行车行驶标志 | |<img src=./resources/s_i38.jpg  width="60" height="60"> |  | ----  |
-|  电动自行车车道 | |<img src=./resources/s_i39.jpg  width="60" height="80"> |  | ----  |
-|  非机动车与行人分开空间通行 | |<img src=./resources/s_i60.jpg  width="60" height="80"> |  | ----  |
-|  非机动车与行人共享空间通行 | |<img src=./resources/s_i41.jpg  width="60" height="60"> |  | ----  |
-|  不同的专用车道标志并设 | |<img src=./resources/s_i42.jpg  width="80" height="80"> |  | ----  |
-|  非机动车推行 | |<img src=./resources/s_i43.jpg  width="60" height="60"> |  | ----  |
-|  靠右侧车道行驶 | |<img src=./resources/s_i44.jpg  width="60" height="60"> |  | ----  |
-|  有轨电车专用车道 | |<img src=./resources/s_i45.jpg  width="60" height="60"> |  | ----  |
-|  残疾人专用停车位 | |<img src=./resources/s_i46.jpg  width="60" height="60"> |  | ----  |
-|  校车专用停车位标志、校车停靠站点标志 | |<img src=./resources/s_i47.jpg  width="120" height="60"> |  | ----  |
-|  出租车专用停车位标志 | |<img src=./resources/s_i48.jpg  width="80" height="60"> |  | ----  |
-|  非机动车专用停车位标志 | |<img src=./resources/s_i49.jpg  width="80" height="60"> |  | ----  |
-|  公交车专用停车位标志 | |<img src=./resources/s_i50.jpg  width="100" height="60"> |  | ----  |
+|  直行 | |<img src=./resources/129.jpg  width="60" height="60"> |  |  |
+|  向左转弯 | |<img src=./resources/130.jpg  width="60" height="60"> |  |  |
+|  向右转弯 | |<img src=./resources/131.jpg  width="60" height="60"> |  |  |
+|  直行和向左转弯 | |<img src=./resources/132.jpg  width="60" height="60"> |  |  |
+|  直行和向右转弯 | |<img src=./resources/133.jpg  width="60" height="60"> |  |  |
+|  向左和向右转弯 | |<img src=./resources/134.jpg  width="60" height="60"> |  |  |
+|  靠右侧道路行驶 | |<img src=./resources/135.jpg  width="60" height="60"> |  |   |
+|  靠左侧道路行驶 | |<img src=./resources/136.jpg  width="60" height="60"> |  |  |
+|  立体交叉直行和左转弯行驶 | |<img src=./resources/137.jpg  width="60" height="60"> |  | ----  |
+|  立体交叉直行和右转弯行驶 | |<img src=./resources/138.jpg  width="60" height="60"> |  | ----  |
+|  环岛行驶 | |<img src=./resources/139.jpg  width="60" height="60"> |  |  |
+|  单行路向右 | |<img src=./resources/140.jpg  width="60" height="60"> |  |  |
+|  单行路向左 | |<img src=./resources/141.jpg  width="60" height="60"> |  | ----  |
+|  单行路（直行） | |<img src=./resources/143.jpg  width="60" height="60"> |  |  |
+|  步行 | |<img src=./resources/142.jpg  width="60" height="60"> |  |  |
+|  鸣喇叭 | |<img src=./resources/144.jpg  width="60" height="60"> |  | ----  |
+|  最低限速 | |<img src=./resources/145.jpg  width="60" height="60"> |  |  |
+|  路口优先通行 | |<img src=./resources/146.jpg  width="60" height="60"> |  | ----  |
+|  会车先行 | |<img src=./resources/147.png  width="60" height="60"> |  | ----  |
+|  人行横道 | |<img src=./resources/148.jpg  width="60" height="60"> |  |   |
+|  右转车道 | |<img src=./resources/149.jpg  width="60" height="60"> |  |   |
+|  左转车道 | |<img src=./resources/150.jpg  width="60" height="60"> |  |   |
+|  直行车道 | |<img src=./resources/151.jpg  width="60" height="60"> |  |   |
+|  直行和右转合用车道 | |<img src=./resources/152.jpg  width="60" height="60"> |  |   |
+|  直行和左转合用车道 | |<img src=./resources/153.jpg  width="60" height="60"> |  |   |
+|  掉头车道 | |<img src=./resources/154.jpg  width="60" height="60"> |  |   |
+|  掉头车道 | |<img src=./resources/155.jpg  width="60" height="60"> |  |   |
+|  左掉头和左转合用车道 | |<img src=./resources/156.jpg  width="60" height="60"> |  |   |
+|  右掉头和右转合用车道 | |<img src=./resources/157.jpg  width="60" height="60"> |  |   |
+|  左掉头和直行合用车道 | |<img src=./resources/158.jpg  width="60" height="60"> |  |   |
+|  右掉头和直行合用车道 | |<img src=./resources/159.jpg  width="60" height="60"> |  |   |
+|  左右转合并车道 | |<img src=./resources/160.jpg  width="60" height="60"> |  | ----  |
+|  公交线路专用车道 | |<img src=./resources/161.jpg  width="60" height="60"> |  |   |
+|  机动车行驶 | |<img src=./resources/162.jpg  width="60" height="60"> |  |  |
+|  机动车车道 | |<img src=./resources/163.jpg  width="60" height="60"> |  |  |
+|  非机动车行驶 | |<img src=./resources/164.jpg  width="60" height="60"> |  |   |
+|  非机动车车道 | |<img src=./resources/166.jpg  width="60" height="60"> |  | ----  |
+|  快速公交系统专用车道 | |<img src=./resources/167.png  width="60" height="80"> |  |  |
+|  多乘员车辆专用车道 | |<img src=./resources/168.png  width="50" height="60"> |  | ----  |
+|  停车位 | |<img src=./resources/169.jpg  width="80" height="80"> |  |   |
+|  停车位 | |<img src=./resources/170.jpg  width="80" height="80"> |  |   |
+|  停车位 | |<img src=./resources/171.jpg  width="80" height="80"> |  |   |
+|  停车位 | |<img src=./resources/172.jpg  width="80" height="80"> |  |   |
+|  允许左掉头 | |<img src=./resources/173.jpg  width="60" height="60"> |  |   |
+|  允许左掉头 | |<img src=./resources/174.jpg  width="60" height="60"> |  |   |
+|  开车灯 | |<img src=./resources/175.jpg  width="60" height="60"> |  | ----  |
+|  电动自行车行驶标志 | |<img src=./resources/165.jpg  width="60" height="60"> |  | ----  |
+|  靠右侧车道行驶 | |<img src=./resources/176.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/177.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/179.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/180.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/181.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/182.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/183.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/184_0.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/184_1.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/185_0.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/185_1.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/186.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/187.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/188.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/189.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/190.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/191.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/192.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/193.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/194_0.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/194_1.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/195.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/196.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/197.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/198.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/199_0.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/199_1.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/200.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/201.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/202.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/203.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/204.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/206_0.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/206_1.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/207.jpg  width="60" height="60"> |  | ----  |
+|   | |<img src=./resources/209.jpg  width="60" height="60"> |  | ----  |
 |  充电停车位标志 | |<img src=./resources/s_i51.jpg  width="60" height="60"> |  | ----  |
 |  专属停车位标志 | |<img src=./resources/s_i52.jpg  width="80" height="60"> |  | ----  |
 |  限时长停车位标志 | |<img src=./resources/s_i53.jpg  width="80" height="60"> |  | ----  |
 |  硬路肩允许行驶标志 | |<img src=./resources/s_i54.jpg  width="120" height="60"> |  | ----  |
 |  货车通行标志 | |<img src=./resources/s_i55.jpg  width="60" height="60"> |  | ----  |
+|  小型客车车道 | |<img src=./resources/s_i37.jpg  width="60" height="60"> |  | ----  |
+|  电动自行车车道 | |<img src=./resources/s_i39.jpg  width="60" height="80"> |  | ----  |
+|  非机动车与行人分开空间通行 | |<img src=./resources/s_i60.jpg  width="60" height="80"> |  | ----  |
+|  非机动车与行人共享空间通行 | |<img src=./resources/s_i41.jpg  width="60" height="60"> |  | ----  |
+|  不同的专用车道标志并设 | |<img src=./resources/s_i42.jpg  width="80" height="80"> |  | ----  |
+|  非机动车推行 | |<img src=./resources/s_i43.jpg  width="60" height="60"> |  | ----  |
+|  有轨电车专用车道 | |<img src=./resources/s_i45.jpg  width="60" height="60"> |  | ----  |
+|  残疾人专用停车位 | |<img src=./resources/196.jpg  width="60" height="60"> |  | ----  |
+|  校车专用停车位标志、校车停靠站点标志 | |<img src=./resources/s_i47.jpg  width="120" height="60"> |  | ----  |
+|  出租车专用停车位标志 | |<img src=./resources/s_i48.jpg  width="80" height="60"> |  | ----  |
+|  非机动车专用停车位标志 | |<img src=./resources/s_i49.jpg  width="80" height="60"> |  | ----  |
+|  公交车专用停车位标志 | |<img src=./resources/s_i50.jpg  width="100" height="60"> |  | ----  |
+<!-- |  Y 形交叉（左右侧） | |<img src=./resources/s_w68.jpg  width="60" height="60"> |   |   |
+|  Y 形交叉（左右侧） | |<img src=./resources/s_w69.jpg  width="100" height="60"> |   |   |
+|  陡坡标志加坡度值 | |<img src=./resources/s_w70.jpg  width="60" height="60"> |   |   |
+|  叉形符号 | |<img src=./resources/s_w71.jpg  width="60" height="60"> |   |   |
+|  斜杠符号 | |<img src=./resources/s_w72.jpg  width="100" height="60"> |   |   |
+|  注意电动自行车 | |<img src=./resources/s_w73.jpg  width="60" height="60"> |   |   |
+|  交通事故管理 | |<img src=./resources/s_w74.jpg  width="60" height="60"> |   |   |
+|  建议 | |<img src=./resources/s_w75.jpg  width="100" height="60"> |   |   |
+|  避险车道 | |<img src=./resources/s_w76.jpg  width="60" height="60"> |   |   |
+|  注意车道数变少 | |<img src=./resources/s_w77.jpg  width="60" height="60"> |   |   |----
+|  线形诱导标 | |<img src=./resources/s_w78.jpg  width="60" height="60"> |   |   | -->
